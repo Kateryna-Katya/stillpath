@@ -357,3 +357,29 @@ color: #435257;
         width: 790px;
     }
 }
+/* Contact */
+.contact-link {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    justify-content: center;
+}
+
+.contact-section {
+background: #d8edff;
+    background-image: url("/img/contact/mob.png");
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: 100% 194px;
+height: 630px;
+}
+.contact-subtitle{
+    font-size: 40px;
+}
+@media only screen and (min-width: 1440px) {
+    .contact-section {
+        background-image: url("/img/contact/desk.png");
+        background-size: 100% 333px;
+height: 725px;
+    }
+}
