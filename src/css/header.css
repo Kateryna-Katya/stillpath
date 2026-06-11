@@ -62,7 +62,7 @@ background: linear-gradient(270deg, #d6e7f3 0%, #cddee6 50%, #c8d9e1 83.84%, #d7
 .menu-item {
   width: 343px;
   padding: 8px 0px;
-  opacity: 0.4;
+  opacity: 0.5;
   transition: all 0.3s ease-in-out;
 }
 
