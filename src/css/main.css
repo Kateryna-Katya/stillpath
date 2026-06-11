@@ -119,3 +119,31 @@ margin-right: auto;
     margin-left: 1px;
 }  
 }
+/* Farming Loop */
+.farming-section{
+    background-image: url("/img/farming/mob.png");
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: 100% 251px;
+    height: 804px;
+}
+.farming-text{
+    width: 313px;
+    margin-left: auto;
+    margin-right: auto;
+}
+@media only screen and (min-width: 1440px) {
+    .mob{
+        display: none;
+    }
+.farming-section {
+    background-image: url("/img/farming/desk.png");
+    background-size: 100% 800px;
+height: 1300px;
+}
+
+.farming-text {
+    width: 100%;
+
+}
+}
