@@ -278,13 +278,13 @@ width: 211px;
     border: none;
     background: inherit;
     width: 100%;
-font-family: "Asap", sans-serif;
-    font-weight: 300;
+font-family: "Funnel Display", sans-serif;
+    font-weight: 400;
     font-size: 24px;
     line-height: 1.5;
-    color: #f5f5f5;
+    color: #2e393c;
     padding: 8px;
-border-bottom: 1px solid #8582ac;
+border-bottom: 1px solid #395963;
     margin-bottom: 0;
     cursor: pointer;
     box-sizing: border-box;
@@ -320,7 +320,7 @@ border-bottom: 1px solid #8582ac;
     overflow: hidden;
     max-height: 0;
     text-align: left;
-color: #cccae7;
+color: #435257;
     opacity: 0;
     transition: max-height 0.3s ease, opacity 0.3s ease, border-bottom 0.3s ease;
 }
@@ -336,8 +336,8 @@ color: #cccae7;
     border: none;
     background: none;
     text-align: left;
-color: #cccae7;
-    padding: 8px;
+color: #435257;
+    padding: 8px 24px 8px 8px;
     max-height: 500px;
 }
 
